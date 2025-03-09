@@ -22,6 +22,10 @@ Click on a lab name to view its details and setup instructions.
 1. [**Tagging for Cost Allocation**](#lab-1-tagging-for-cost-allocation)  
    Enforce compliance using **AWS Config**, **Systems Manager**, and **Lambda** to ensure resources are properly tagged.
 
+###  Incident Response With AWS
+2. [**Incident Response With AWS**](#lab-2-incident-response)  
+   Protect your network from a compromised EC2 instance by automatically isolating it and restricting it with AWS tools.
+
 ---
 
 
