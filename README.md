@@ -25,9 +25,7 @@ Click on a lab name to view its details and setup instructions.
 ###  Incident Response With AWS
 2. Incident Response With AWS (#lab-2-incident-response)
    Protect your network from a compromised EC2 instance by automatically isolating it and restricting it with AWS tools.
-
----
-
+![Screenshot from 2025-03-02 10-01-17](https://github.com/user-attachments/assets/2331e419-3ad4-4ed5-9f7d-ca68d044d1b2)
 
 ---
 
